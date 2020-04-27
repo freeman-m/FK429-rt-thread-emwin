@@ -1,0 +1,17 @@
+[
+ {
+  "path": "/packages/multimedia/STemWin", 
+  "ver": "latest", 
+  "name": "STEMWIN"
+ }, 
+ {
+  "path": "/packages/peripherals/i2c_tools", 
+  "ver": "latest", 
+  "name": "I2C_TOOLS"
+ }, 
+ {
+  "path": "/packages/peripherals/touch/gt9147", 
+  "ver": "latest", 
+  "name": "GT9147"
+ }
+]
